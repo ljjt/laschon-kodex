@@ -1,0 +1,14 @@
+[project]
+name = "laschonkodex"
+version = "0.1.0"
+description = "Semantic tools for Talmudic linguistics"
+authors = [{name = "Jacob Tardell", email = "jacob@moxyid.com"}]
+dependencies = [
+  "chromadb",
+  "openai",
+  "rich",
+  "python-dotenv"
+]
+
+[project.scripts]
+laschon-kodex = "laschonkodex.cli:main"
