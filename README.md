@@ -1,6 +1,6 @@
 # laschon-kodex
 
-*Semantic tools for querying and indexing Talmudic texts.*
+*Semantic tools for querying and indexing semitic texts.*
 
 Laschon-Kodex är ett Python-paket för att söka, analysera och annotera mishnayot och gemarot med hjälp av LLM-baserade vektorsökningar (RAG).
 
